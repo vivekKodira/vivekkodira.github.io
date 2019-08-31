@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Anecdote driven tales"
+date: 2016-30-01
+---
+
 A few weeks ago I was asked to travel to Mysore for work. I'd booked a taxi for the journey and was picked up at 6:00 in the morning. The driver and I exchanged the usual pleasantries and I settled down for a quiet ride. Not being good at initiating conversations, I didn't expect to have much to talk to him about during the journey. He too seemed content to just drive.
 
 I ride to Mysore often (it is home) and so, 30 minutes into the drive, asked him how often he drove to Mysore and if he enjoyed it. By some alchemy, that question got him talking about himself, where he was from, his family, friends, schooling, work and his ambitions. By the time we reached Mysore, we'd become friends. 
