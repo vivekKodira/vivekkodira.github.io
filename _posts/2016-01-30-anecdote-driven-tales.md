@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anecdote driven tales"
-date: 2016-30-01
+date: 2016-01-30
 ---
 
 A few weeks ago I was asked to travel to Mysore for work. I'd booked a taxi for the journey and was picked up at 6:00 in the morning. The driver and I exchanged the usual pleasantries and I settled down for a quiet ride. Not being good at initiating conversations, I didn't expect to have much to talk to him about during the journey. He too seemed content to just drive.
