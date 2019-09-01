@@ -9,6 +9,17 @@ tags: [logging]
 
 I recently attended a session on IBM's WebSphere Application Server. The second day of the session dealt only with problem analysis. There were a few things about the logging mechanism that one noticed and would be useful in any tool/application.
 
+- [Configurable](#configurable)
+- [Built over a framework](#built-over-a-framework)
+- [Separation of application generated logs and user logs](#separation-of-application-generated-logs-and-user-logs)
+- [Tools and Processes to ensure logs are useful](#tools-and-processes-to-ensure-logs-are-useful)
+- [Rollover](#rollover)
+- [Extract](#extract)
+- [Interpret](#interpret)
+- [Report](#report)
+- [Feedback](#feedback)
+- [Consolidate and implement](#consolidate-and-implement)
+
 ## Configurable
 The user is allowed to configure different levels of logging. He can choose to log only errors, log errors and warnings, log errors, warnings and information. (There were 3 or 4 more such levels). The product also has features such as allowing the user to configure the size of a log file (after exceeding which, another physical file should be used) and specifying how many files to retain. 
 
@@ -40,6 +51,3 @@ Each then sends back suggestions on fixes, improvements or tweaks to avoid the e
 
 ## Consolidate and implement
 Review this data and send feedback to the same people as earlier so they can implement processes that avoid the error occurring again.
-
-Suggestions/Feedback welcome :),
-

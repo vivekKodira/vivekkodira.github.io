@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anecdote Party Animal"
+title: "Anecdote: Party Animal"
 date: 2012-08-01
 categories: [ anecdote]
 ---

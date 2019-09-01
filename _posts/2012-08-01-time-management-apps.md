@@ -17,5 +17,3 @@ A couple of years ago, when I was struggling to manage my responsibilities, I di
 As recommended by the book, mGSD allows you to create 'Projects' (which represent the activities to be done), 'Actions' (which are the series of steps you or others need to perform  to complete the activity), 'Contexts' (the context in which an activity can be done - I don't find this as useful) and 'Ticklers' (a system to remind you of one-off or recurring tasks). In addition to these, mGSD adds a couple of tweaks of its own (such as dependent actions which become 'active' only when you've completed the action they are dependent on). There is also an active [user community](https://groups.google.com/forum/#!forum/gtd-tiddlywiki) which contributes enhancements and tricks and tweaks.
 
 One drawback of the tool is that it does not yet work on mobile browsers. Chrome and IE also misbehave and so I use it only with Firefox. This one disadvantage aside, have found this tool to be everything I needed and more. Recommend it highly. 
-
-P.S: The full list of tools I use is available [here](http://delicious.com/vivekkodira/tools).

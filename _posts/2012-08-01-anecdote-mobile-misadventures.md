@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anecdote Mobile Misadventures"
+title: "Anecdote: Mobile Misadventures"
 date: 2012-08-01
 categories: [ anecdote]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Anecdote driven tales"
-date: 2016-01-30
+title: "Anecdote: driven tales"
+date: 2012-08-01
 categories: [ anecdote]
 ---
 

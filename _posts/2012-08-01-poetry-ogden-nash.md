@@ -4,6 +4,10 @@ title: "Poetry: Ogden Nash"
 date: 2012-08-01
 categories: [ poetry]
 ---
+
+- [Fleas](#fleas)
+- [Song of the Open Road](#song-of-the-open-road)
+
 ## Fleas
 Adam <br/>
 Had'em<br/> 
