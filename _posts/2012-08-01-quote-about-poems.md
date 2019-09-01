@@ -2,7 +2,7 @@
 layout: post
 title: "Quote: Poems"
 date: 2012-08-01
-categories: [blog, quote]
+categories: [ quote]
 ---
 (Source: A friend sent this to me in an email).
 

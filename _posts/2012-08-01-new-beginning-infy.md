@@ -2,7 +2,7 @@
 layout: post
 title: "New Beginning Infy"
 date: 2012-08-01
-categories: [blog]
+categories: [opinion]
 ---
 
 After 9 years in one company, I am finally quitting in a month's time. 

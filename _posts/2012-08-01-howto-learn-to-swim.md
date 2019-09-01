@@ -2,7 +2,7 @@
 layout: post
 title: "How I learnt to Swim"
 date: 2012-08-01
-categories: [blog, anecdote]
+categories: [ anecdote]
 ---
 
 May not seem like much of an achievement but it is one to me. Thought I'd describe how I learnt so that others can too (and to gloat :)).

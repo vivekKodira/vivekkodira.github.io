@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Chronicles of Narnia"
 date: 2012-08-01
-categories: [blog, review]
+categories: [ book-review ]
 ---
 
 "If I was doing it at all, I was arguing with Narnia. Tolkien is not worth arguing with.” - Phillip Pulman, the author of 'Dark Materials' says this in an [interview](http://www.moreintelligentlife.com/node/697). 

@@ -2,7 +2,7 @@
 layout: post
 title: "Wiki Strategies"
 date: 2012-08-01
-categories: [blog, software, wiki, Fosswiki]
+categories: [ software, wiki]
 ---
 (2012: This post has been edited to remove company-specific information
 

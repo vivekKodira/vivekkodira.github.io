@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Author Bertrand Russell"
+title: "Author: Bertrand Russell"
 date: 2012-08-01
-categories: [blog, author]
+categories: [ author]
 ---
 The first book of his that I read was one called "Silhouettes in Satire". It wasn't really 'his' book in the sense that he'd never written it - was only a compilation some of his wittier social comments. At 10 bucks it seemed a bargain and so began my journey into philosophy. 
 

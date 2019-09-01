@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Mazallan, Book of the fallen"
 date: 2012-08-01
-categories: [blog, review]
+categories: [ book-review ]
 ---
 'Gardens of the Moon' and 'Deadhouse Gates' are both books by Steven Erikson and are the first two in the series: Mazallan, Book of the Fallen. 
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Manticores secret"
 date: 2012-08-01
-categories: [blog, review]
+categories: [ book-review ]
 ---
 The Manticore's secret is along the same lines as the Simoqin Prophecies (which it would have to be considering it is a sequel). The plot is a little like the Wheel of Time - the antihero who though immensely powerful is in danger of being corrupted by that same power. Like the last book though, the emphasis is just as much on puns, word play and on the absurdity of situations as it is in telling a story. In this one though, a whole new set of 'behind the scenes' characters are revealed - the shape shifters and the Gods.
 

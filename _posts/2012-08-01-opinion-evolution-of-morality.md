@@ -2,7 +2,7 @@
 layout: post
 title: "Evolution of Morality"
 date: 2012-08-01
-categories: [blog, opinion]
+categories: [ opinion]
 ---
 Read the phrase 'the evolution of morality' in an article a few days back and found it interesting. 
 

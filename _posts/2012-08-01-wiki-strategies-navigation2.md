@@ -2,7 +2,7 @@
 layout: post
 title: "Wiki Strategies: Navigation 2"
 date: 2012-08-01
-categories: [blog, software, wiki, Fosswiki]
+categories: [ software, wiki]
 ---
 
 After a point in time, just being able to navigate to a page on the wiki was not enough - people needed to be told what (types of) pages were available. Though our FAQ system had been successful, other content though still as easy to create and get to, were not being contributed to.

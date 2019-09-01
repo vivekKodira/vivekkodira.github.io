@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Game of Thrones"
 date: 2012-08-01
-categories: [blog, review]
+categories: [ book-review ]
 ---
 Books: (Published)
 

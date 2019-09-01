@@ -2,7 +2,7 @@
 layout: post
 title: "Poetry: John Wooden on Success"
 date: 2012-08-01
-categories: [blog, poetry]
+categories: [ poetry]
 ---
 Enjoyed a talk by [John Wooden](http://en.wikipedia.org/wiki/John_Wooden) immensely. The mp3, video and transcript are available [here](http://www.ted.com/talks/john_wooden_on_the_difference_between_winning_and_success.html).
 

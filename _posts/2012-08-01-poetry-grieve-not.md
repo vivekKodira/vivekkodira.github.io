@@ -2,7 +2,7 @@
 layout: post
 title: "Poetry: Grieve not"
 date: 2012-08-01
-categories: [blog, poetry]
+categories: [ poetry]
 ---
 
 Do not stand at my grave and weep; <br/>

@@ -2,7 +2,7 @@
 layout: post
 title: "Poetry: Worthwhile - Ella Wheeler Wilcox"
 date: 2012-08-01
-categories: [blog, poetry]
+categories: [ poetry]
 ---
 
 It is easy enough to be pleasant,<br/>

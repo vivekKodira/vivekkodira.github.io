@@ -2,7 +2,7 @@
 layout: post
 title: "Inadvertant results"
 date: 2012-08-01
-categories: [blog, opinion]
+categories: [ opinion]
 ---
 ...are sometimes more effective than if the original intent of a decision were satisfied. 
 

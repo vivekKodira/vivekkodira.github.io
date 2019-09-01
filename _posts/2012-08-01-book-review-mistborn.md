@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: Series: Mistborn Saga"
 date: 2012-08-01
-categories: [blog, review]
+categories: [ book-review ]
 ---
 
 I was introduced to [Brandon Sanderson](http://www.brandonsanderson.com/)'s writing only recently. He has been writing the last 3 books of the Wheel of Time series after its original author (Robert Jordan) died. It is quite a task to take up a popular series and try to complete it. You have too many expectations to meet. I was quite impressed with his writing and decided to read his other work as well.

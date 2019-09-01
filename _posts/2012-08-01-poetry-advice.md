@@ -2,7 +2,7 @@
 layout: post
 title: "Poetry: Advice"
 date: 2012-08-01
-categories: [blog, poetry]
+categories: [ poetry]
 ---
 
 "Advice"

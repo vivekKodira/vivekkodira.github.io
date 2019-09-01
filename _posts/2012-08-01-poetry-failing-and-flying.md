@@ -2,7 +2,7 @@
 layout: post
 title: "Poetry: Failing and Flying - Jack Gilbert"
 date: 2012-08-01
-categories: [blog, poetry]
+categories: [ poetry]
 ---
 Everyone forgets that Icarus also flew.
 

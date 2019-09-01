@@ -2,9 +2,8 @@
 layout: post
 title: "Perceptions"
 date: 2012-08-01
-categories: [blog, software, processes]
+categories: [ opinion, software ]
 ---
-Long post. Mostly about perceptions and how they vary across roles.
 
 (NOTE: For the non-development folks, CVS and Clearcase are configuration management tools)
 

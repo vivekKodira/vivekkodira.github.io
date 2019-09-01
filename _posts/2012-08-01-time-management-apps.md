@@ -2,7 +2,7 @@
 layout: post
 title: "Time Management Apps"
 date: 2012-08-01
-categories: [blog, productivity]
+categories: [ opinion ]
 ---
 Jeff Atwood's latest [post](http://www.codinghorror.com/blog/2012/10/todont.html) dismisses To Do lists. While I have a lot of respect for his opinions, I feel he is wrong on this one. Any tool if not used correctly will not give the results one expects. Here fault lies with the user and not the tool.
 

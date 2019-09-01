@@ -2,7 +2,7 @@
 layout: post
 title: "Pyramids, Problems & Posts"
 date: 2012-08-01
-categories: [blog, writing, satire]
+categories: [ opinion ]
 ---
 
 (2012: This was a post I put on the intranet. Have modified the original to remove the name of the company.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Author Dorothy Dunnett"
+title: "Author: Dorothy Dunnett"
 date: 2012-08-01
-categories: [blog, author]
+categories: [ author]
 ---
 :). Did I mention she is my favourite author. Well, she is that for many many more people. When I first finished 'The Game of Kings', I became sad thinking 'How will any book I ever read measure up to this?' Immediately then, the thought came that there were more to read in the Lymond series itself and many more by this very author and that cheered me up. 
 

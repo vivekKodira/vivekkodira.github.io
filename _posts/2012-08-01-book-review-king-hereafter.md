@@ -2,7 +2,7 @@
 layout: post
 title: "Book Review: King Hereafter"
 date: 2012-08-01
-categories: [blog, review]
+categories: [ book-review ]
 ---
 Dorothy Dunnett has been my favourite author for two years now. The first book of hers that I read (and still read again whenever I can) was 'The Game of Kings'. I was so impressed by her wit and humour that I searched for and bought all the books she's written. There have been 7 in the Lymond series, of which 'The Game Of Kings' was the first. She also wrote another series. This book 'King Hereafter' belongs to neither. 
 

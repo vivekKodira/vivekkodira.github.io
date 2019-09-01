@@ -2,7 +2,7 @@
 layout: post
 title: "Wiki Strategies: Design Documentation"
 date: 2012-08-01
-categories: [blog, software, wiki, Fosswiki]
+categories: [ software, wiki]
 ---
 ## Wiki Strategies - Design Documentation and Code Walk-throughs
 

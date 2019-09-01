@@ -2,7 +2,7 @@
 layout: post
 title: "Poetry: What teachers make"
 date: 2012-08-01
-categories: [blog, poetry]
+categories: [ poetry]
 ---
 I want to teach one day and so one of the things I google for are articles about teaching. 
 

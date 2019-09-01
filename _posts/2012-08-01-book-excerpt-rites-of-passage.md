@@ -2,7 +2,7 @@
 layout: post
 title: "Book Excerpt: Rites of Passage"
 date: 2012-08-01
-categories: [blog, excerpt]
+categories: [ quote ]
 ---
 
 Rites of Passage

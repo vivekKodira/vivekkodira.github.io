@@ -2,7 +2,7 @@
 layout: post
 title: "Configuration Management - Managerial Considerations"
 date: 2012-08-01
-categories: [blog, software, configuration-management]
+categories: [ software, configuration management]
 ---
 
 3 of the 12 steps in Joel Spolsky's article ["The Joel Test: 12 Steps to Better Code"](http://www.joelonsoftware.com/articles/fog0000000043.html) (written in 2000) dealt with builds. Today, everyone agrees on the need for configuration management (CM) and continuous integration (CI). However, my experience has also been that configuration management is setup and then completely ignored until things go wrong. 
