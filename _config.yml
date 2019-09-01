@@ -1,3 +1,3 @@
 name: Vivek Kodira
 markdown: kramdown
-forceBuild: 1
+permalink: /blog/:year/:month/:day/:title

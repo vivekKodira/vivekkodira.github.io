@@ -26,6 +26,4 @@ The book 'King Rat' by James Clavell tells the story of a POW camp. Ethics, prin
 
 Perhaps ethics are just luxuries that a well-fed stomach and an idle mind conjure up.
 
-Vivek.
-
 P.S: I hope this post isn't misunderstood. But just in case: This wasn't a lament about other people's lack of ethics - only doubts about my own.
