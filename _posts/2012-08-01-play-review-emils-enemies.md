@@ -2,7 +2,8 @@
 layout: post
 title: "Play Review: Emil's Enemies"
 date: 2012-08-01
-categories: [ play-review ]
+categories: [ review ]
+tags: [play]
 ---
 Emil's enemies is a play told from the perspective of Dietrich, a pacifist philosopher priest, awaiting his execution after his role in several assassination attempts on Hitler is revealed. In flashbacks, which he narrates to his only companion: his hangman, he tells the story. The play alternates several times between the present: prison and the past: his interactions with the co-conspirators: his sister and her husband: Major Hans. And their encounters with their nemesis: SS officers "Little" Hans and his superior officer, who finally reveal the plot and arrest them all.
 

@@ -16,11 +16,9 @@ One of the best ways to document and communicate design is using UML. There are 
 
 For instance, I'd want to introduce a framework by showing only its higher-order components and what they do
 
-![High Level Overview](./images/wiki-strategies-design-documentation/HighLevelOverView.png)
+![High Level Overview](/assets/images/wiki-strategies-design-documentation/HighLevelOverView.png)
 
 After that, I would want to take one component at a time and elaborate its behavior. The 'methods' I indicate in the diagram may not even be actual methods in the component or may have other names in code. Accuracy/Exactness is not as much a goal here - explaining the logic in the component is more important. 
-
-![Component Overview](./images/wiki-strategies-design-documentation/ComponentOverView.png)
 
 With this in mind, it is better to create your own UML. 
 
@@ -34,7 +32,7 @@ The creators of www.websequencediagrams.com have gone with the 2nd approach and 
 
 I personally prefer the 2nd approach too. The reason for this preference is because I would like to store the raw data in our wiki as text. This would ensure that all the data would be searchable from anywhere else in the wiki. The FAQ and References systems we've built would help show this content to the interested user.
 
-title Component2 Design for invoke
+![Component Overview](/assets/images/wiki-strategies-design-documentation/ComponentOverView.png)
 
 ```
 Component2->Component2:validate

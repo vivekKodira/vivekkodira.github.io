@@ -2,7 +2,8 @@
 layout: post
 title: "Automated Testing: Observations"
 date: 2012-08-01
-categories: [ software, testing]
+categories: [ software ]
+tags: [testing]
 ---
 
 

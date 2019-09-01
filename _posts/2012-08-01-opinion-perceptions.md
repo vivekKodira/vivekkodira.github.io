@@ -2,7 +2,7 @@
 layout: post
 title: "Perceptions"
 date: 2012-08-01
-categories: [ opinion, software ]
+categories: [ opinion ]
 ---
 
 (NOTE: For the non-development folks, CVS and Clearcase are configuration management tools)

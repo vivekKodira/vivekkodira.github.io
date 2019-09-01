@@ -2,7 +2,8 @@
 layout: post
 title: "Book Review: Vile Bodies"
 date: 2012-08-01
-categories: [ book-review ]
+categories: [review]
+tags: [ book-review ]
 ---
 The book is by Evelyn Waugh, who I read about on the cover of some other book I was reading. The reviewer praised the author saying he was 'almost as good as Waugh'. Curious, I googled for Evelyn Waugh and found even more praise - he has been called the 'satirist of the century' and compared to P.G. Wodehouse. 
 

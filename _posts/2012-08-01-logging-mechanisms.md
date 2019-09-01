@@ -2,7 +2,8 @@
 layout: post
 title: "Logging Mechanisms"
 date: 2012-08-01
-categories: [ software, logging]
+categories: [ software ]
+tags: [logging]
 ---
 (2012: This post has been edited to remove any content specific to the company I was in at the time)
 
