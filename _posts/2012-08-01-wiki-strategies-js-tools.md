@@ -2,7 +2,7 @@
 layout: post
 title: "Wiki Strategies: JS Tools"
 date: 2012-08-01
-categories: [ software, wiki]
+categories: [ software]
 ---
 ##Wiki Strategies - JavaScript Based Tools 
 

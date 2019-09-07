@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: Worthwhile - Ella Wheeler Wilcox"
+title: "Worthwhile - Ella Wheeler Wilcox"
 date: 2012-08-01
 categories: [ poetry]
 ---

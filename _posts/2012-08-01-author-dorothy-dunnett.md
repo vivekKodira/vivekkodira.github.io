@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Author: Dorothy Dunnett"
+title: "Dorothy Dunnett"
 date: 2012-08-01
 categories: [ author]
 ---

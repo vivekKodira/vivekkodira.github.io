@@ -5,44 +5,106 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    {% seo %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-1.12.4.min.js"
         integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <!--[if lt IE 9]>
-      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <!--[if lt IE 8]>
-    <link rel="stylesheet" href="{{ '/assets/css/ie.css' | relative_url }}">
-    <![endif]-->
+    <!-- <script src="{{ '/assets/js/respond.js' | relative_url }}"></script> -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+        integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css"
+        integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
+        integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+
+    <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.3.1/darkly/bootstrap.min.css"> -->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+        integrity="sha256-zmfNZmXoNWBMemUOo1XUGFfc0ihGGLYdgtJS3KCr/l0=" crossorigin="anonymous" />
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
 </head>
 
 <body>
-    <div id="header">
-        <nav>
-            <li class="fork"><a href="/">Home</a></li>
-            <!-- <li><a href="/about">About</a></li>
-                        <li><a href="/cv">CV</a></li> -->
-            <li class="fork"><a href="/blog">Blog</a></li>
+    <div class="header"></div>
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <!-- <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+                        aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button> -->
+                    <a class="navbar-brand" href="/">Home</a>
+                    
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                                aria-expanded="false">Category <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                {% for category in site.categories %}
+                                <li><a href="/blog/{{category[0]}}">{{ category[0] | capitalize }}</a></li>
+                                <!-- <ul>
+                                    {% for post in category[1] %}
+                                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                                    {% endfor %}
+                                </ul> -->
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li><a href="/about">About<!--  <span class="sr-only">(current)</span> --></a></li>
+                    </ul>
+                </div>
+            </div>
         </nav>
     </div><!-- end header -->
 
-    <div class="wrapper">
-
-        <section>
-            <div id="title">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-                <p>{{ site.description | default: site.github.project_tagline }}</p>
-            </div>
-
-            {{ content }}
-
-        </section>
-
+    <div class="contentWrapper container-fluid">
+        <div class="wrapper row">
+            <section class="leftHandContent col-xs-1"></section>
+            <section class="mainContent col-xs-8">
+                <div id="title">
+                    <h1>{{ site.title | default: site.github.repository_name }}</h1>
+                    <p>{{ site.description | default: site.github.project_tagline }}</p>
+                </div>
+                {{ content }}
+            </section>
+            <section class="rightHandContent col-xs-3">
+                <!-- <ul class="posts">
+                    {% for post in site.posts %}
+                    <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                </ul> -->
+                {% for category in site.categories %}
+                <h4>{{ category[0] | capitalize }}</h4>
+                <ul>
+                    {% for post in category[1] %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endfor %}
+            </section>
+        </div>
+        <div class="footer">
+        <span class="credits right">Hosted on GitHub Pages</span>
+        <a target="_blank" href="https://twitter.com/vivekkodira"><i class="fab fa-twitter"></i></a>
+        <a target="_blank" href="https://www.linkedin.com/in/vivek-kodira/"><i class="fab fa-linkedin"></i></a>
+        <a target="_blank" href="https://www.facebook.com/vivek.kodira"><i class="fab fa-facebook"></i></a>
+        </div>
     </div>
+
 
     {% if site.google_analytics %}
     <script>
@@ -57,10 +119,7 @@
     </script>
     {% endif %}
 </body>
-<footer>
-    <ul>
-        <li><a href="mailto:vivekkodira@gmail.com">email</a></li>
-        <li><a href="https://github.com/vivekkodira">github.com/vivekkodira</a></li>
-    </ul>
-</footer>
+
+
+
 </html>

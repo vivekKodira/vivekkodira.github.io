@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: Advice"
+title: "Advice"
 date: 2012-08-01
 categories: [ poetry]
 ---

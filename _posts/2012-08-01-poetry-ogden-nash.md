@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: Ogden Nash"
+title: "Ogden Nash"
 date: 2012-08-01
 categories: [ poetry]
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: "Wiki Strategies: Simplify Interface"
 date: 2012-08-01
-categories: [ software, wiki]
+categories: [ software]
 ---
 One of the most difficult aspects of managing a wiki is getting your team to contribute. While there are several ways to motivate users to contribute, the easiest is to make the interface easy.
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Wiki Strategies: Navigation"
 date: 2012-08-01
-categories: [ software, wiki]
+categories: [ software]
 ---
 (2012: This post has been edited to remove company-specific information)
 

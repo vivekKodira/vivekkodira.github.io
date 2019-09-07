@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: John Wooden on Success"
+title: "John Wooden on Success"
 date: 2012-08-01
 categories: [ poetry]
 ---

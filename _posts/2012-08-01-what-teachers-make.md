@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: What teachers make"
+title: "What teachers make"
 date: 2012-08-01
 categories: [ poetry]
 ---

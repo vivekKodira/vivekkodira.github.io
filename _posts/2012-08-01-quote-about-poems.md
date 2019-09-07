@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quote: Poems"
+title: "Poems"
 date: 2012-08-01
 categories: [ quote]
 ---

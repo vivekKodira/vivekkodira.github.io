@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: Grieve not"
+title: "Grieve not"
 date: 2012-08-01
 categories: [ poetry]
 ---

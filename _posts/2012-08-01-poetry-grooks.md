@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: Grooks"
+title: "Grooks"
 date: 2012-08-01
 categories: [ poetry]
 ---

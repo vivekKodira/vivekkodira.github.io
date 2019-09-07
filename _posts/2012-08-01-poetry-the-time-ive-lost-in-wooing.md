@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: The time I've lost in wooing"
+title: "The time I've lost in wooing"
 date: 2012-08-01
 categories: [ poetry]
 ---

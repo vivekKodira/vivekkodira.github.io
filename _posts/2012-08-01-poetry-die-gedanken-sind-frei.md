@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poetry: Die Gedanken Sind Frei (My Thoughts Are Free)"
+title: "Die Gedanken Sind Frei (My Thoughts Are Free)"
 date: 2012-08-01
 categories: [ poetry]
 ---

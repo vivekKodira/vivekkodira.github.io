@@ -6,7 +6,6 @@ categories: [ software ]
 tags: [testing]
 ---
 
-
 *In this post, I document some observations on automated UI-based testing. Note: The intended audience for this post are folks who are familiar with (but are not experts on) automated testing.* 
 
 A word of caution, UI-based automation testing should only form a minor part of your team's test arsenal. Such tests are brittle, expensive, time consuming, have lower returns and are redundant (several different tests will end up testing the same piece of code over and over). More effort should be spent on non-ui-service-level and unit testing. Test Driven Development (TDD) is best.

@@ -2,7 +2,7 @@
 layout: post
 title: "Wiki Strategies: Data Mining"
 date: 2012-08-01
-categories: [ software, wiki]
+categories: [ software]
 ---
 (This post has been edited to remove company-specific information. 
 

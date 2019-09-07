@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Author: Bertrand Russell"
+title: "Bertrand Russell"
 date: 2012-08-01
 categories: [ author]
 ---
