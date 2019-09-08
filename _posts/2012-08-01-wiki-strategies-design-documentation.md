@@ -4,7 +4,6 @@ title: "Wiki Strategies: Design Documentation"
 date: 2012-08-01
 categories: [ software]
 ---
-## Wiki Strategies - Design Documentation and Code Walk-throughs
 
 With only a few weeks left before I move on from the company, my focus these days is to ensure that my team-mates learn everything I have to teach. 
 

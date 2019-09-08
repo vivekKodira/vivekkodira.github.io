@@ -11,9 +11,17 @@ The main protagonist is Hari Michealson, who plays the killer Caine. The story i
 
 Ironically, Caine has no qualms about the murders he commits or the lives he destroys in the process. The studio sponsoring his adventures and the people viewing them don't think about these aspects either.
 
-Review: the storytelling is fast paced, the action gritty and gory. The romance is stereotypical (misunderstood reticent/gruff hero pursues woman who doesn't see him for what he is). The quality of writing is good: no unnecessary descriptions of puddles on the street. And surprisingly imaginative: a lady who can see auras describes him as " had a quality of relaxation, but there was nothing loose about it; instead it was stillness. A meditative readiness that seemed to flow out from him and fill the room with capacity for action, as though all around him ghosts of imaginary Caines performed every movement that was possible within the space: every attack, every defense, every leap or flip or roll.". The plot builds up to a "how is he going to get out of this mess" climax and did a good job of keeping me guessing, which was good.
+The storytelling is fast paced, the action gritty and gory. 
+
+The romance is stereotypical (misunderstood reticent/gruff hero pursues woman who doesn't see him for what he is). 
+
+The quality of writing is good: no unnecessary descriptions of puddles on the street. And surprisingly imaginative: a lady who can see auras describes him as 
+
+> had a quality of relaxation, but there was nothing loose about it; instead it was stillness. A meditative readiness that seemed to flow out from him and fill the room with capacity for action, as though all around him ghosts of imaginary Caines performed every movement that was possible within the space: every attack, every defense, every leap or flip or roll.
+
+The plot builds up to a _how is he going to get out of this mess_ climax and did a good job of keeping me guessing, which was good.
 
 Enjoyed reading the book. Recommended.
 
-Genre: SF/action/fantasy
-Similar books: Hunger Games/1984
+* Genre: SF/action/fantasy
+* Similar books: Hunger Games/1984

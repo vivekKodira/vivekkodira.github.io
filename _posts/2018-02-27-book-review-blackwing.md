@@ -17,7 +17,10 @@ Most fantasy is about a journey. Either an actual one or one of self discovery. 
 
 This book doesn't read like a debut. It is self assured and masterfully written. It was engrossing. I read all day and into the night. 
 
-**spoiler below** 
+<details><summary>Spoiler</summary>
+<p>
 My criticisms are two. [ One, I wasn't happy with the final plot twist - it felt a little forced. The second is I thought the author should have killed a character who was resurrected. 
+</p>
+</details>
 
 Highly recommended.

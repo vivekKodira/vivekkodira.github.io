@@ -11,6 +11,13 @@ Stephen King mentions in one of his Dark Tower books that fate or God is introdu
 
 Right, to the plot - which I'll try not to reveal too much of. If you've not read the first part of the series, do NOT read any further. 
 
-Kirin, now comfortable (if not exactly happy) in his shoes as the Lord of all the dark forces is trying his best to delay outright war. Everyone else is anxious for it to occur and seizes every opportunity they can. Maya and Asvin too are happy, if a little bored. This state of affairs is spoilt by the arrival of three Ravians who then proceed to callously destroy every other species in the book. It falls to the three (Kirin, Maya and Asvin, not the Ravians) to stop the three (Ravians, not Kirin, Maya and Asvin). I could just have used latter/former but then this wouldn't have been half as much fun :). 
+<details><summary>Spoiler</summary>
+<p>Kirin, now comfortable (if not exactly happy) in his shoes as the Lord of all the dark forces is trying his best to delay outright war. Everyone else is anxious for it to occur and seizes every opportunity they can. </p>
 
-I'd recommend the book for its humour and its puns. As a fantasy novel, its....ok I guess. Not in the league of a 'Lord of the Rings' but then I don't think that was ever the author's aim. 
+<p>Maya and Asvin too are happy, if a little bored. This state of affairs is spoilt by the arrival of three Ravians who then proceed to callously destroy every other species in the book.</p>
+
+<p> It falls to the three (Kirin, Maya and Asvin, not the Ravians) to stop the three (Ravians, not Kirin, Maya and Asvin). I could just have used latter/former but then this wouldn't have been half as much fun :). </p>
+
+</details>
+
+<p>I'd recommend the book for its humour and its puns. As a fantasy novel, its....ok I guess. Not in the league of a 'Lord of the Rings' but then I don't think that was ever the author's aim. </p>

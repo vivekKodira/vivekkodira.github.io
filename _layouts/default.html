@@ -62,6 +62,7 @@
                                     {% endfor %}
                                 </ul> -->
                                 {% endfor %}
+                                <li><a href="/blog">Chronological</a></li>
                             </ul>
                         </li>
                         <li><a href="/about">About<!--  <span class="sr-only">(current)</span> --></a></li>
@@ -82,19 +83,21 @@
                 {{ content }}
             </section>
             <section class="rightHandContent col-xs-3">
+                <!-- Chronological order  -->
                 <!-- <ul class="posts">
                     {% for post in site.posts %}
                     <li><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
                     {% endfor %}
                 </ul> -->
-                {% for category in site.categories %}
+                <!-- By category  -->
+                <!-- {% for category in site.categories %}
                 <h4>{{ category[0] | capitalize }}</h4>
                 <ul>
                     {% for post in category[1] %}
                     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
                     {% endfor %}
                 </ul>
-                {% endfor %}
+                {% endfor %} -->
             </section>
         </div>
         <div class="footer">

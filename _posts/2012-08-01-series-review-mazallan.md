@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review: Mazallan, Book of the fallen"
+title: "Series Review: Mazallan, Book of the fallen"
 date: 2012-08-01
 categories: [review]
 tags: [ book-review ]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Review: Iron Druid Chronicles by Kevin Hearne"
+title: "Series Review: Iron Druid Chronicles by Kevin Hearne"
 date: 2014-04-01
 categories: [review]
 tags: [ book-review ]

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Book Review: Game of Thrones"
+title: "Series Review: A song of ice and fire"
 date: 2012-08-01
 categories: [review]
-tags: [ book-review ]
+tags: [ series-review ]
 ---
 Books: (Published)
 
@@ -28,3 +28,5 @@ The third is that this is an 'adult' book. Most of the books I've read of this g
 Am on the 4th and the last (published) book now. There are three more to go in the series. Enjoying it thoroughly. Is one of the best series I've read. Recommend it highly.
 
 Update on 9-Sep-2011: After reading the 5th installment, I've decided to not recommend this series to anyone. The 'adult' aspects were taken a little too far in this one. But what was most irritating was that it didn't go anywhere - was a huge disappointment after waiting so long.
+
+Update after the TV series finished: Hmm, now I'm curious. I liked how the series ended and am planning to read the next two when they come out.
