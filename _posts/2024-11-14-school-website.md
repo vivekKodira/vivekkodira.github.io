@@ -59,7 +59,7 @@ We also now get 100 TB (yup 100!!!) of space for free. The admin can choose how 
 
 * The teachers & I created a schedule for social media. (My original recommendation was to identify student volunteers but the school opted for a teacher)
 
-* Facebook's Meta Business Suite (https://www.facebook.com/business/tools/meta-business-suite) is intuitive & easy to use. It allows you to schedule posts which will appear on both Facebook & Instagram.
+* Facebook's [Meta Business Suite](https://www.facebook.com/business/tools/meta-business-suite) is intuitive & easy to use. It allows you to schedule posts which will appear on both Facebook & Instagram.
 * We divided the school's media appropriately. Earlier all the social media content was stored on laptops or uploaded to google drive. After some trial and error, we divided it up as follows:
   - Private media - Google photos & Drive (secure)
   - Public photo albums - Facebook (no space constraints!)
