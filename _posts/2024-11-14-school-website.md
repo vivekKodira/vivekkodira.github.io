@@ -19,7 +19,7 @@ This is a school established in 1930 and nurtured since by some very passionate 
 
 ## Goals
 
-For [The Home School](https://www.thehomeschool.in/), my goals were to come up solutions which would be
+For [The Home School](https://www.thehomeschool.in/), my goals were to come up with solutions which would be
   - less expensive from a cost perspective (avoid subscriptions)
   - classy & professional 
   - easy to maintain by the school itself
