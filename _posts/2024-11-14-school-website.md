@@ -56,12 +56,10 @@ We also now get 100 TB (yup 100!!!) of space for free. The admin can choose how 
 
 ## Social Media
 * We consolidated the social media sites across [Facebook](https://www.facebook.com/thehomeschool.in), [Instagram](https://www.instagram.com/thehomeschool.in/), [Youtube](https://www.youtube.com/@thehomeschool1930) and [LinkedIn](https://www.linkedin.com/school/the-home-school-india). These were being managed by different folks and several were out of date. I recommend the use of tools such as a password manager or Google's Authenticator to better manage passwords.
-
 * The teachers & I created a schedule for social media. (My original recommendation was to identify student volunteers but the school opted for a teacher)
-
 * Facebook's [Meta Business Suite](https://www.facebook.com/business/tools/meta-business-suite) is intuitive & easy to use. It allows you to schedule posts which will appear on both Facebook & Instagram.
 * We divided the school's media appropriately. Earlier all the social media content was stored on laptops or uploaded to google drive. After some trial and error, we divided it up as follows:
   - Private media - Google photos & Drive (secure)
   - Public photo albums - Facebook (no space constraints!)
   - Public videos - Youtube (easy to embed)
-  - Links to different social media content are now added to the site when necessary instead of being uploaded to the site directly. I also attempted to make an auto-updating iframe but only succeeded partially. There are paid solutions but I was reluctant to use them.
+* Links to different social media content are now added to the site when necessary instead of being uploaded to the site directly. I also attempted to make an auto-updating iframe but only succeeded partially. There are paid solutions but I was reluctant to use them.
