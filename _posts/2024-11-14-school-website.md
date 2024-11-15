@@ -43,7 +43,7 @@ The only drawback so far with Google Sites is that you can't be very creative wi
 - A professional photographer was hired and took some very beautiful photographs which I feel make the school's website much more appealing than the stock photos the consultancy had used
 
 ### Contact Forms 
-We got past the limitation of Google sites being static by embedding [Google forms](https://www.google.com/forms/about/) on the website for [admissions](https://www.thehomeschool.in/admissions) & [alumni](https://www.thehomeschool.in/about-school/our-alumni) registrations. On form submission, scripts ensure that emails are sent to the internal email addresses. I did find the automation around Google forms not quite as powerful as I'd like and I'm considering alternative like Notion
+We got past the limitation of Google sites being static by embedding [Google forms](https://www.google.com/forms/about/) on the website for [admissions](https://www.thehomeschool.in/admissions) & [alumni](https://www.thehomeschool.in/about-school/our-alumni) registrations. On form submission, scripts ensure that emails are sent to the internal email addresses. I did find the automation around Google forms not quite as powerful as I'd like and I'm considering alternatives like Notion
 
 
 ## Users (Custom Email Addresses)
