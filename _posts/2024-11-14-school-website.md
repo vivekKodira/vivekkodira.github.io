@@ -33,7 +33,7 @@ With workspaces, Google offers tools meant specifically for educators such as Go
 Something that got me worried when I learned of it, was that the domain was owned by the consulting agency. We immediately transfered ownership to the school authorities' account
 
 ## Website
-We moved from the proprietary, insecure (http only) static site created by a consultancy to [Google Sites(https://sites.google.com/)]. I considered a custom website or using [Wix](https://www.wix.com/) but Google sites won for two simple reasons
+We moved from the proprietary, insecure (http only) static site created by a consultancy to [Google Sites](https://sites.google.com/). I considered a custom website or using [Wix](https://www.wix.com/) but Google sites won for two simple reasons
   - A site built with Google sites is childs play to maintain. Once the initial setup was done, one of the school's teachers took over and has been maintaining it since. Everything is drag-and-drop and even responsive out-of-the box.
   - Connecting a custom domain to the site is free in Google Sites but requires a paid subscription in Wix.
 
